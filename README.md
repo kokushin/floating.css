@@ -6,6 +6,8 @@ Floating.css
 
 自動でそれっぽい影もつけてくれます。
 
+[http://kokushin.github.io/floating.css/](http://kokushin.github.io/floating.css/)
+
 ##指定方法
 floating.cssを読み込んだあと、  
 ふわふわさせたい要素を囲むだけです。
