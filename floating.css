@@ -1,4 +1,4 @@
-/*! Floating.css v1.0.0 | MIT License | github.com/kokushin/floating.css */
+/*! Floating.css 1.0.0 | MIT License | github.com/kokushin/floating.css */
 
 
 /**
@@ -35,8 +35,8 @@
 /**
 * The animation target.
 *
-* 0% translate3d:   Distance when moving up.
-* 100% translate3d: Distance when moving down.
+* 0%:   Distance when moving up.
+* 100%: Distance when moving down.
 */
 .fl.floating > * {
 	-webkit-animation: fl .5s ease-in-out 0s infinite alternate;
@@ -55,8 +55,8 @@
 /**
 * The animation shadow.
 *
-* 0% scale:   Size at the time of the move up.
-* 100% scale: Size at the time of the move down.
+* 0%:   Size at the time of the move up.
+* 100%: Size at the time of the move down.
 */
 .fl.floating:after {
 	-webkit-animation: fl-sha .5s ease-in-out 0s infinite alternate;
