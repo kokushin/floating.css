@@ -8,6 +8,10 @@ header {
 header h1 {
 	font-size: 48px;
 	text-align: center;
+	margin-bottom: 40px;
+}
+header p {
+	text-align: center;
 }
 
 section {
@@ -56,6 +60,6 @@ footer p {
 }
 #custom-2 .fl.floating:after {
 	-webkit-animation: fl-sha .02s ease-in-out 0s infinite alternate;
-	        animation: fl-sha .02s ease-in-out 0s infinite alternate;
+	        animation: fl-sha .s ease-in-out 0s infinite alternate;
 }
 
